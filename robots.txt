@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caminoesperanza2023-collab.github.io/oraciones/sitemap.xml
